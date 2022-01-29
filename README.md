@@ -1,2 +1,2 @@
 # Lifespan-X-Population-Status
-Animals' lifespan and population status prediction project.
+A Python project using machine learning aiming to predict animals' lifespan and population status.
